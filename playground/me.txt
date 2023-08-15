@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vudhay
-Skills: HTML, CSS, JS
-Email: pasupulavudhay45@gmail.com
-{{/user}}
